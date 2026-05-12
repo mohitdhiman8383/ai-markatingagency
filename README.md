@@ -15,7 +15,7 @@ npm run dev
 npm run build
 ```
 
-The contact form opens WhatsApp with a prefilled strategy-call message. Add a phone number to the WhatsApp URL in `src/App.jsx` if you want submissions to go directly to a specific account.
+The contact form opens an email draft to `Mohitdhiman8383@gmail.com` and includes a WhatsApp CTA for `+91 78143 23946`.
 
 ## GitHub Pages
 
